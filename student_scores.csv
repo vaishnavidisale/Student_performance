@@ -1,0 +1,401 @@
+StudentID,Name,Gender,AttendanceRate,StudyHours,PreviousGrade,subject,exam_type
+S001,Siddharth,Male,60.19,4.81,64.06,Mathematics,Unit Test
+S001,Siddharth,Male,60.19,4.81,64.06,Mathematics,Midterm
+S001,Siddharth,Male,60.19,4.81,64.06,Science,Unit Test
+S001,Siddharth,Male,60.19,4.81,64.06,Science,Midterm
+S001,Siddharth,Male,60.19,4.81,64.06,English,Unit Test
+S001,Siddharth,Male,60.19,4.81,64.06,English,Midterm
+S001,Siddharth,Male,60.19,4.81,64.06,History,Unit Test
+S001,Siddharth,Male,60.19,4.81,64.06,History,Midterm
+S002,Megha,Female,81.64,5.29,58.72,Mathematics,Unit Test
+S002,Megha,Female,81.64,5.29,58.72,Mathematics,Midterm
+S002,Megha,Female,81.64,5.29,58.72,Science,Unit Test
+S002,Megha,Female,81.64,5.29,58.72,Science,Midterm
+S002,Megha,Female,81.64,5.29,58.72,English,Unit Test
+S002,Megha,Female,81.64,5.29,58.72,English,Midterm
+S002,Megha,Female,81.64,5.29,58.72,History,Unit Test
+S002,Megha,Female,81.64,5.29,58.72,History,Midterm
+S003,Rahul,Male,99.28,4.38,92.57,Mathematics,Unit Test
+S003,Rahul,Male,99.28,4.38,92.57,Mathematics,Midterm
+S003,Rahul,Male,99.28,4.38,92.57,Science,Unit Test
+S003,Rahul,Male,99.28,4.38,92.57,Science,Midterm
+S003,Rahul,Male,99.28,4.38,92.57,English,Unit Test
+S003,Rahul,Male,99.28,4.38,92.57,English,Midterm
+S003,Rahul,Male,99.28,4.38,92.57,History,Unit Test
+S003,Rahul,Male,99.28,4.38,92.57,History,Midterm
+S004,Kavya,Female,86.34,1.07,68.83,Mathematics,Unit Test
+S004,Kavya,Female,86.34,1.07,68.83,Mathematics,Midterm
+S004,Kavya,Female,86.34,1.07,68.83,Science,Unit Test
+S004,Kavya,Female,86.34,1.07,68.83,Science,Midterm
+S004,Kavya,Female,86.34,1.07,68.83,English,Unit Test
+S004,Kavya,Female,86.34,1.07,68.83,English,Midterm
+S004,Kavya,Female,86.34,1.07,68.83,History,Unit Test
+S004,Kavya,Female,86.34,1.07,68.83,History,Midterm
+S005,Aditya,Male,83.52,1.34,76.19,Mathematics,Unit Test
+S005,Aditya,Male,83.52,1.34,76.19,Mathematics,Midterm
+S005,Aditya,Male,83.52,1.34,76.19,Science,Unit Test
+S005,Aditya,Male,83.52,1.34,76.19,Science,Midterm
+S005,Aditya,Male,83.52,1.34,76.19,English,Unit Test
+S005,Aditya,Male,83.52,1.34,76.19,English,Midterm
+S005,Aditya,Male,83.52,1.34,76.19,History,Unit Test
+S005,Aditya,Male,83.52,1.34,76.19,History,Midterm
+S006,Sanya,Female,66.41,3.19,81.81,Mathematics,Unit Test
+S006,Sanya,Female,66.41,3.19,81.81,Mathematics,Midterm
+S006,Sanya,Female,66.41,3.19,81.81,Science,Unit Test
+S006,Sanya,Female,66.41,3.19,81.81,Science,Midterm
+S006,Sanya,Female,66.41,3.19,81.81,English,Unit Test
+S006,Sanya,Female,66.41,3.19,81.81,English,Midterm
+S006,Sanya,Female,66.41,3.19,81.81,History,Unit Test
+S006,Sanya,Female,66.41,3.19,81.81,History,Midterm
+S007,Rahul,Male,67.17,5.03,67.51,Mathematics,Unit Test
+S007,Rahul,Male,67.17,5.03,67.51,Mathematics,Midterm
+S007,Rahul,Male,67.17,5.03,67.51,Science,Unit Test
+S007,Rahul,Male,67.17,5.03,67.51,Science,Midterm
+S007,Rahul,Male,67.17,5.03,67.51,English,Unit Test
+S007,Rahul,Male,67.17,5.03,67.51,English,Midterm
+S007,Rahul,Male,67.17,5.03,67.51,History,Unit Test
+S007,Rahul,Male,67.17,5.03,67.51,History,Midterm
+S008,Isha,Female,86.74,4.91,72.19,Mathematics,Unit Test
+S008,Isha,Female,86.74,4.91,72.19,Mathematics,Midterm
+S008,Isha,Female,86.74,4.91,72.19,Science,Unit Test
+S008,Isha,Female,86.74,4.91,72.19,Science,Midterm
+S008,Isha,Female,86.74,4.91,72.19,English,Unit Test
+S008,Isha,Female,86.74,4.91,72.19,English,Midterm
+S008,Isha,Female,86.74,4.91,72.19,History,Unit Test
+S008,Isha,Female,86.74,4.91,72.19,History,Midterm
+S009,Aarav,Male,93.24,2.59,62.41,Mathematics,Unit Test
+S009,Aarav,Male,93.24,2.59,62.41,Mathematics,Midterm
+S009,Aarav,Male,93.24,2.59,62.41,Science,Unit Test
+S009,Aarav,Male,93.24,2.59,62.41,Science,Midterm
+S009,Aarav,Male,93.24,2.59,62.41,English,Unit Test
+S009,Aarav,Male,93.24,2.59,62.41,English,Midterm
+S009,Aarav,Male,93.24,2.59,62.41,History,Unit Test
+S009,Aarav,Male,93.24,2.59,62.41,History,Midterm
+S010,Riya,Female,92.41,4.33,86.1,Mathematics,Unit Test
+S010,Riya,Female,92.41,4.33,86.1,Mathematics,Midterm
+S010,Riya,Female,92.41,4.33,86.1,Science,Unit Test
+S010,Riya,Female,92.41,4.33,86.1,Science,Midterm
+S010,Riya,Female,92.41,4.33,86.1,English,Unit Test
+S010,Riya,Female,92.41,4.33,86.1,English,Midterm
+S010,Riya,Female,92.41,4.33,86.1,History,Unit Test
+S010,Riya,Female,92.41,4.33,86.1,History,Midterm
+S011,Karan,Male,95.34,2.67,93.9,Mathematics,Unit Test
+S011,Karan,Male,95.34,2.67,93.9,Mathematics,Midterm
+S011,Karan,Male,95.34,2.67,93.9,Science,Unit Test
+S011,Karan,Male,95.34,2.67,93.9,Science,Midterm
+S011,Karan,Male,95.34,2.67,93.9,English,Unit Test
+S011,Karan,Male,95.34,2.67,93.9,English,Midterm
+S011,Karan,Male,95.34,2.67,93.9,History,Unit Test
+S011,Karan,Male,95.34,2.67,93.9,History,Midterm
+S012,Sanya,Female,67.57,1.33,63.03,Mathematics,Unit Test
+S012,Sanya,Female,67.57,1.33,63.03,Mathematics,Midterm
+S012,Sanya,Female,67.57,1.33,63.03,Science,Unit Test
+S012,Sanya,Female,67.57,1.33,63.03,Science,Midterm
+S012,Sanya,Female,67.57,1.33,63.03,English,Unit Test
+S012,Sanya,Female,67.57,1.33,63.03,English,Midterm
+S012,Sanya,Female,67.57,1.33,63.03,History,Unit Test
+S012,Sanya,Female,67.57,1.33,63.03,History,Midterm
+S013,Ankit,Male,74.81,5.9,90.92,Mathematics,Unit Test
+S013,Ankit,Male,74.81,5.9,90.92,Mathematics,Midterm
+S013,Ankit,Male,74.81,5.9,90.92,Science,Unit Test
+S013,Ankit,Male,74.81,5.9,90.92,Science,Midterm
+S013,Ankit,Male,74.81,5.9,90.92,English,Unit Test
+S013,Ankit,Male,74.81,5.9,90.92,English,Midterm
+S013,Ankit,Male,74.81,5.9,90.92,History,Unit Test
+S013,Ankit,Male,74.81,5.9,90.92,History,Midterm
+S014,Sanya,Female,96.15,5.74,51.54,Mathematics,Unit Test
+S014,Sanya,Female,96.15,5.74,51.54,Mathematics,Midterm
+S014,Sanya,Female,96.15,5.74,51.54,Science,Unit Test
+S014,Sanya,Female,96.15,5.74,51.54,Science,Midterm
+S014,Sanya,Female,96.15,5.74,51.54,English,Unit Test
+S014,Sanya,Female,96.15,5.74,51.54,English,Midterm
+S014,Sanya,Female,96.15,5.74,51.54,History,Unit Test
+S014,Sanya,Female,96.15,5.74,51.54,History,Midterm
+S015,Karan,Male,65.32,5.39,66.62,Mathematics,Unit Test
+S015,Karan,Male,65.32,5.39,66.62,Mathematics,Midterm
+S015,Karan,Male,65.32,5.39,66.62,Science,Unit Test
+S015,Karan,Male,65.32,5.39,66.62,Science,Midterm
+S015,Karan,Male,65.32,5.39,66.62,English,Unit Test
+S015,Karan,Male,65.32,5.39,66.62,English,Midterm
+S015,Karan,Male,65.32,5.39,66.62,History,Unit Test
+S015,Karan,Male,65.32,5.39,66.62,History,Midterm
+S016,Sanya,Female,95.69,5.53,65.49,Mathematics,Unit Test
+S016,Sanya,Female,95.69,5.53,65.49,Mathematics,Midterm
+S016,Sanya,Female,95.69,5.53,65.49,Science,Unit Test
+S016,Sanya,Female,95.69,5.53,65.49,Science,Midterm
+S016,Sanya,Female,95.69,5.53,65.49,English,Unit Test
+S016,Sanya,Female,95.69,5.53,65.49,English,Midterm
+S016,Sanya,Female,95.69,5.53,65.49,History,Unit Test
+S016,Sanya,Female,95.69,5.53,65.49,History,Midterm
+S017,Rahul,Male,76.49,4.76,95.86,Mathematics,Unit Test
+S017,Rahul,Male,76.49,4.76,95.86,Mathematics,Midterm
+S017,Rahul,Male,76.49,4.76,95.86,Science,Unit Test
+S017,Rahul,Male,76.49,4.76,95.86,Science,Midterm
+S017,Rahul,Male,76.49,4.76,95.86,English,Unit Test
+S017,Rahul,Male,76.49,4.76,95.86,English,Midterm
+S017,Rahul,Male,76.49,4.76,95.86,History,Unit Test
+S017,Rahul,Male,76.49,4.76,95.86,History,Midterm
+S018,Isha,Female,79.01,3.29,62.22,Mathematics,Unit Test
+S018,Isha,Female,79.01,3.29,62.22,Mathematics,Midterm
+S018,Isha,Female,79.01,3.29,62.22,Science,Unit Test
+S018,Isha,Female,79.01,3.29,62.22,Science,Midterm
+S018,Isha,Female,79.01,3.29,62.22,English,Unit Test
+S018,Isha,Female,79.01,3.29,62.22,English,Midterm
+S018,Isha,Female,79.01,3.29,62.22,History,Unit Test
+S018,Isha,Female,79.01,3.29,62.22,History,Midterm
+S019,Rahul,Male,67.53,5.93,58.64,Mathematics,Unit Test
+S019,Rahul,Male,67.53,5.93,58.64,Mathematics,Midterm
+S019,Rahul,Male,67.53,5.93,58.64,Science,Unit Test
+S019,Rahul,Male,67.53,5.93,58.64,Science,Midterm
+S019,Rahul,Male,67.53,5.93,58.64,English,Unit Test
+S019,Rahul,Male,67.53,5.93,58.64,English,Midterm
+S019,Rahul,Male,67.53,5.93,58.64,History,Unit Test
+S019,Rahul,Male,67.53,5.93,58.64,History,Midterm
+S020,Isha,Female,96.22,1.59,94.27,Mathematics,Unit Test
+S020,Isha,Female,96.22,1.59,94.27,Mathematics,Midterm
+S020,Isha,Female,96.22,1.59,94.27,Science,Unit Test
+S020,Isha,Female,96.22,1.59,94.27,Science,Midterm
+S020,Isha,Female,96.22,1.59,94.27,English,Unit Test
+S020,Isha,Female,96.22,1.59,94.27,English,Midterm
+S020,Isha,Female,96.22,1.59,94.27,History,Unit Test
+S020,Isha,Female,96.22,1.59,94.27,History,Midterm
+S021,Krishna,Male,69.71,4.82,87.89,Mathematics,Unit Test
+S021,Krishna,Male,69.71,4.82,87.89,Mathematics,Midterm
+S021,Krishna,Male,69.71,4.82,87.89,Science,Unit Test
+S021,Krishna,Male,69.71,4.82,87.89,Science,Midterm
+S021,Krishna,Male,69.71,4.82,87.89,English,Unit Test
+S021,Krishna,Male,69.71,4.82,87.89,English,Midterm
+S021,Krishna,Male,69.71,4.82,87.89,History,Unit Test
+S021,Krishna,Male,69.71,4.82,87.89,History,Midterm
+S022,Sanya,Female,67.08,2.28,85.06,Mathematics,Unit Test
+S022,Sanya,Female,67.08,2.28,85.06,Mathematics,Midterm
+S022,Sanya,Female,67.08,2.28,85.06,Science,Unit Test
+S022,Sanya,Female,67.08,2.28,85.06,Science,Midterm
+S022,Sanya,Female,67.08,2.28,85.06,English,Unit Test
+S022,Sanya,Female,67.08,2.28,85.06,English,Midterm
+S022,Sanya,Female,67.08,2.28,85.06,History,Unit Test
+S022,Sanya,Female,67.08,2.28,85.06,History,Midterm
+S023,Aarav,Male,97.89,5.83,93.06,Mathematics,Unit Test
+S023,Aarav,Male,97.89,5.83,93.06,Mathematics,Midterm
+S023,Aarav,Male,97.89,5.83,93.06,Science,Unit Test
+S023,Aarav,Male,97.89,5.83,93.06,Science,Midterm
+S023,Aarav,Male,97.89,5.83,93.06,English,Unit Test
+S023,Aarav,Male,97.89,5.83,93.06,English,Midterm
+S023,Aarav,Male,97.89,5.83,93.06,History,Unit Test
+S023,Aarav,Male,97.89,5.83,93.06,History,Midterm
+S024,Tanvi,Female,94.34,2.28,75.69,Mathematics,Unit Test
+S024,Tanvi,Female,94.34,2.28,75.69,Mathematics,Midterm
+S024,Tanvi,Female,94.34,2.28,75.69,Science,Unit Test
+S024,Tanvi,Female,94.34,2.28,75.69,Science,Midterm
+S024,Tanvi,Female,94.34,2.28,75.69,English,Unit Test
+S024,Tanvi,Female,94.34,2.28,75.69,English,Midterm
+S024,Tanvi,Female,94.34,2.28,75.69,History,Unit Test
+S024,Tanvi,Female,94.34,2.28,75.69,History,Midterm
+S025,Vishal,Male,97.24,4.95,76.42,Mathematics,Unit Test
+S025,Vishal,Male,97.24,4.95,76.42,Mathematics,Midterm
+S025,Vishal,Male,97.24,4.95,76.42,Science,Unit Test
+S025,Vishal,Male,97.24,4.95,76.42,Science,Midterm
+S025,Vishal,Male,97.24,4.95,76.42,English,Unit Test
+S025,Vishal,Male,97.24,4.95,76.42,English,Midterm
+S025,Vishal,Male,97.24,4.95,76.42,History,Unit Test
+S025,Vishal,Male,97.24,4.95,76.42,History,Midterm
+S026,Sanya,Female,67.88,5.51,91.96,Mathematics,Unit Test
+S026,Sanya,Female,67.88,5.51,91.96,Mathematics,Midterm
+S026,Sanya,Female,67.88,5.51,91.96,Science,Unit Test
+S026,Sanya,Female,67.88,5.51,91.96,Science,Midterm
+S026,Sanya,Female,67.88,5.51,91.96,English,Unit Test
+S026,Sanya,Female,67.88,5.51,91.96,English,Midterm
+S026,Sanya,Female,67.88,5.51,91.96,History,Unit Test
+S026,Sanya,Female,67.88,5.51,91.96,History,Midterm
+S027,Krishna,Male,93.15,1.76,90.12,Mathematics,Unit Test
+S027,Krishna,Male,93.15,1.76,90.12,Mathematics,Midterm
+S027,Krishna,Male,93.15,1.76,90.12,Science,Unit Test
+S027,Krishna,Male,93.15,1.76,90.12,Science,Midterm
+S027,Krishna,Male,93.15,1.76,90.12,English,Unit Test
+S027,Krishna,Male,93.15,1.76,90.12,English,Midterm
+S027,Krishna,Male,93.15,1.76,90.12,History,Unit Test
+S027,Krishna,Male,93.15,1.76,90.12,History,Midterm
+S028,Sanya,Female,98.75,2.59,75.6,Mathematics,Unit Test
+S028,Sanya,Female,98.75,2.59,75.6,Mathematics,Midterm
+S028,Sanya,Female,98.75,2.59,75.6,Science,Unit Test
+S028,Sanya,Female,98.75,2.59,75.6,Science,Midterm
+S028,Sanya,Female,98.75,2.59,75.6,English,Unit Test
+S028,Sanya,Female,98.75,2.59,75.6,English,Midterm
+S028,Sanya,Female,98.75,2.59,75.6,History,Unit Test
+S028,Sanya,Female,98.75,2.59,75.6,History,Midterm
+S029,Aarav,Male,98.73,5.23,81.5,Mathematics,Unit Test
+S029,Aarav,Male,98.73,5.23,81.5,Mathematics,Midterm
+S029,Aarav,Male,98.73,5.23,81.5,Science,Unit Test
+S029,Aarav,Male,98.73,5.23,81.5,Science,Midterm
+S029,Aarav,Male,98.73,5.23,81.5,English,Unit Test
+S029,Aarav,Male,98.73,5.23,81.5,English,Midterm
+S029,Aarav,Male,98.73,5.23,81.5,History,Unit Test
+S029,Aarav,Male,98.73,5.23,81.5,History,Midterm
+S030,Neha,Female,75.61,1.95,76.44,Mathematics,Unit Test
+S030,Neha,Female,75.61,1.95,76.44,Mathematics,Midterm
+S030,Neha,Female,75.61,1.95,76.44,Science,Unit Test
+S030,Neha,Female,75.61,1.95,76.44,Science,Midterm
+S030,Neha,Female,75.61,1.95,76.44,English,Unit Test
+S030,Neha,Female,75.61,1.95,76.44,English,Midterm
+S030,Neha,Female,75.61,1.95,76.44,History,Unit Test
+S030,Neha,Female,75.61,1.95,76.44,History,Midterm
+S031,Siddharth,Male,98.74,5,68.4,Mathematics,Unit Test
+S031,Siddharth,Male,98.74,5,68.4,Mathematics,Midterm
+S031,Siddharth,Male,98.74,5,68.4,Science,Unit Test
+S031,Siddharth,Male,98.74,5,68.4,Science,Midterm
+S031,Siddharth,Male,98.74,5,68.4,English,Unit Test
+S031,Siddharth,Male,98.74,5,68.4,English,Midterm
+S031,Siddharth,Male,98.74,5,68.4,History,Unit Test
+S031,Siddharth,Male,98.74,5,68.4,History,Midterm
+S032,Pooja,Female,65.45,3.08,72.84,Mathematics,Unit Test
+S032,Pooja,Female,65.45,3.08,72.84,Mathematics,Midterm
+S032,Pooja,Female,65.45,3.08,72.84,Science,Unit Test
+S032,Pooja,Female,65.45,3.08,72.84,Science,Midterm
+S032,Pooja,Female,65.45,3.08,72.84,English,Unit Test
+S032,Pooja,Female,65.45,3.08,72.84,English,Midterm
+S032,Pooja,Female,65.45,3.08,72.84,History,Unit Test
+S032,Pooja,Female,65.45,3.08,72.84,History,Midterm
+S033,Vishal,Male,65.64,3.24,84.21,Mathematics,Unit Test
+S033,Vishal,Male,65.64,3.24,84.21,Mathematics,Midterm
+S033,Vishal,Male,65.64,3.24,84.21,Science,Unit Test
+S033,Vishal,Male,65.64,3.24,84.21,Science,Midterm
+S033,Vishal,Male,65.64,3.24,84.21,English,Unit Test
+S033,Vishal,Male,65.64,3.24,84.21,English,Midterm
+S033,Vishal,Male,65.64,3.24,84.21,History,Unit Test
+S033,Vishal,Male,65.64,3.24,84.21,History,Midterm
+S034,Riya,Female,83.39,4.35,73.35,Mathematics,Unit Test
+S034,Riya,Female,83.39,4.35,73.35,Mathematics,Midterm
+S034,Riya,Female,83.39,4.35,73.35,Science,Unit Test
+S034,Riya,Female,83.39,4.35,73.35,Science,Midterm
+S034,Riya,Female,83.39,4.35,73.35,English,Unit Test
+S034,Riya,Female,83.39,4.35,73.35,English,Midterm
+S034,Riya,Female,83.39,4.35,73.35,History,Unit Test
+S034,Riya,Female,83.39,4.35,73.35,History,Midterm
+S035,Siddharth,Male,90.69,2.04,96.12,Mathematics,Unit Test
+S035,Siddharth,Male,90.69,2.04,96.12,Mathematics,Midterm
+S035,Siddharth,Male,90.69,2.04,96.12,Science,Unit Test
+S035,Siddharth,Male,90.69,2.04,96.12,Science,Midterm
+S035,Siddharth,Male,90.69,2.04,96.12,English,Unit Test
+S035,Siddharth,Male,90.69,2.04,96.12,English,Midterm
+S035,Siddharth,Male,90.69,2.04,96.12,History,Unit Test
+S035,Siddharth,Male,90.69,2.04,96.12,History,Midterm
+S036,Kavya,Female,71.18,4.92,56.66,Mathematics,Unit Test
+S036,Kavya,Female,71.18,4.92,56.66,Mathematics,Midterm
+S036,Kavya,Female,71.18,4.92,56.66,Science,Unit Test
+S036,Kavya,Female,71.18,4.92,56.66,Science,Midterm
+S036,Kavya,Female,71.18,4.92,56.66,English,Unit Test
+S036,Kavya,Female,71.18,4.92,56.66,English,Midterm
+S036,Kavya,Female,71.18,4.92,56.66,History,Unit Test
+S036,Kavya,Female,71.18,4.92,56.66,History,Midterm
+S037,Aarav,Male,94.52,3.83,58.78,Mathematics,Unit Test
+S037,Aarav,Male,94.52,3.83,58.78,Mathematics,Midterm
+S037,Aarav,Male,94.52,3.83,58.78,Science,Unit Test
+S037,Aarav,Male,94.52,3.83,58.78,Science,Midterm
+S037,Aarav,Male,94.52,3.83,58.78,English,Unit Test
+S037,Aarav,Male,94.52,3.83,58.78,English,Midterm
+S037,Aarav,Male,94.52,3.83,58.78,History,Unit Test
+S037,Aarav,Male,94.52,3.83,58.78,History,Midterm
+S038,Neha,Female,74.11,2.36,75.82,Mathematics,Unit Test
+S038,Neha,Female,74.11,2.36,75.82,Mathematics,Midterm
+S038,Neha,Female,74.11,2.36,75.82,Science,Unit Test
+S038,Neha,Female,74.11,2.36,75.82,Science,Midterm
+S038,Neha,Female,74.11,2.36,75.82,English,Unit Test
+S038,Neha,Female,74.11,2.36,75.82,English,Midterm
+S038,Neha,Female,74.11,2.36,75.82,History,Unit Test
+S038,Neha,Female,74.11,2.36,75.82,History,Midterm
+S039,Aditya,Male,99.58,2.09,85.98,Mathematics,Unit Test
+S039,Aditya,Male,99.58,2.09,85.98,Mathematics,Midterm
+S039,Aditya,Male,99.58,2.09,85.98,Science,Unit Test
+S039,Aditya,Male,99.58,2.09,85.98,Science,Midterm
+S039,Aditya,Male,99.58,2.09,85.98,English,Unit Test
+S039,Aditya,Male,99.58,2.09,85.98,English,Midterm
+S039,Aditya,Male,99.58,2.09,85.98,History,Unit Test
+S039,Aditya,Male,99.58,2.09,85.98,History,Midterm
+S040,Isha,Female,61.36,5.09,94.02,Mathematics,Unit Test
+S040,Isha,Female,61.36,5.09,94.02,Mathematics,Midterm
+S040,Isha,Female,61.36,5.09,94.02,Science,Unit Test
+S040,Isha,Female,61.36,5.09,94.02,Science,Midterm
+S040,Isha,Female,61.36,5.09,94.02,English,Unit Test
+S040,Isha,Female,61.36,5.09,94.02,English,Midterm
+S040,Isha,Female,61.36,5.09,94.02,History,Unit Test
+S040,Isha,Female,61.36,5.09,94.02,History,Midterm
+S041,Karan,Male,96.35,2.47,57.67,Mathematics,Unit Test
+S041,Karan,Male,96.35,2.47,57.67,Mathematics,Midterm
+S041,Karan,Male,96.35,2.47,57.67,Science,Unit Test
+S041,Karan,Male,96.35,2.47,57.67,Science,Midterm
+S041,Karan,Male,96.35,2.47,57.67,English,Unit Test
+S041,Karan,Male,96.35,2.47,57.67,English,Midterm
+S041,Karan,Male,96.35,2.47,57.67,History,Unit Test
+S041,Karan,Male,96.35,2.47,57.67,History,Midterm
+S042,Megha,Female,82.47,5.31,65.54,Mathematics,Unit Test
+S042,Megha,Female,82.47,5.31,65.54,Mathematics,Midterm
+S042,Megha,Female,82.47,5.31,65.54,Science,Unit Test
+S042,Megha,Female,82.47,5.31,65.54,Science,Midterm
+S042,Megha,Female,82.47,5.31,65.54,English,Unit Test
+S042,Megha,Female,82.47,5.31,65.54,English,Midterm
+S042,Megha,Female,82.47,5.31,65.54,History,Unit Test
+S042,Megha,Female,82.47,5.31,65.54,History,Midterm
+S043,Krishna,Male,97.29,4.98,59.59,Mathematics,Unit Test
+S043,Krishna,Male,97.29,4.98,59.59,Mathematics,Midterm
+S043,Krishna,Male,97.29,4.98,59.59,Science,Unit Test
+S043,Krishna,Male,97.29,4.98,59.59,Science,Midterm
+S043,Krishna,Male,97.29,4.98,59.59,English,Unit Test
+S043,Krishna,Male,97.29,4.98,59.59,English,Midterm
+S043,Krishna,Male,97.29,4.98,59.59,History,Unit Test
+S043,Krishna,Male,97.29,4.98,59.59,History,Midterm
+S044,Tanvi,Female,80.66,1.99,69.73,Mathematics,Unit Test
+S044,Tanvi,Female,80.66,1.99,69.73,Mathematics,Midterm
+S044,Tanvi,Female,80.66,1.99,69.73,Science,Unit Test
+S044,Tanvi,Female,80.66,1.99,69.73,Science,Midterm
+S044,Tanvi,Female,80.66,1.99,69.73,English,Unit Test
+S044,Tanvi,Female,80.66,1.99,69.73,English,Midterm
+S044,Tanvi,Female,80.66,1.99,69.73,History,Unit Test
+S044,Tanvi,Female,80.66,1.99,69.73,History,Midterm
+S045,Ritesh,Male,69.59,4.12,97.98,Mathematics,Unit Test
+S045,Ritesh,Male,69.59,4.12,97.98,Mathematics,Midterm
+S045,Ritesh,Male,69.59,4.12,97.98,Science,Unit Test
+S045,Ritesh,Male,69.59,4.12,97.98,Science,Midterm
+S045,Ritesh,Male,69.59,4.12,97.98,English,Unit Test
+S045,Ritesh,Male,69.59,4.12,97.98,English,Midterm
+S045,Ritesh,Male,69.59,4.12,97.98,History,Unit Test
+S045,Ritesh,Male,69.59,4.12,97.98,History,Midterm
+S046,Kavya,Female,64.24,5.66,54.35,Mathematics,Unit Test
+S046,Kavya,Female,64.24,5.66,54.35,Mathematics,Midterm
+S046,Kavya,Female,64.24,5.66,54.35,Science,Unit Test
+S046,Kavya,Female,64.24,5.66,54.35,Science,Midterm
+S046,Kavya,Female,64.24,5.66,54.35,English,Unit Test
+S046,Kavya,Female,64.24,5.66,54.35,English,Midterm
+S046,Kavya,Female,64.24,5.66,54.35,History,Unit Test
+S046,Kavya,Female,64.24,5.66,54.35,History,Midterm
+S047,Vishal,Male,86.31,2.39,80.2,Mathematics,Unit Test
+S047,Vishal,Male,86.31,2.39,80.2,Mathematics,Midterm
+S047,Vishal,Male,86.31,2.39,80.2,Science,Unit Test
+S047,Vishal,Male,86.31,2.39,80.2,Science,Midterm
+S047,Vishal,Male,86.31,2.39,80.2,English,Unit Test
+S047,Vishal,Male,86.31,2.39,80.2,English,Midterm
+S047,Vishal,Male,86.31,2.39,80.2,History,Unit Test
+S047,Vishal,Male,86.31,2.39,80.2,History,Midterm
+S048,Neha,Female,72.11,1.92,64,Mathematics,Unit Test
+S048,Neha,Female,72.11,1.92,64,Mathematics,Midterm
+S048,Neha,Female,72.11,1.92,64,Science,Unit Test
+S048,Neha,Female,72.11,1.92,64,Science,Midterm
+S048,Neha,Female,72.11,1.92,64,English,Unit Test
+S048,Neha,Female,72.11,1.92,64,English,Midterm
+S048,Neha,Female,72.11,1.92,64,History,Unit Test
+S048,Neha,Female,72.11,1.92,64,History,Midterm
+S049,Rahul,Male,84.93,5.97,65.22,Mathematics,Unit Test
+S049,Rahul,Male,84.93,5.97,65.22,Mathematics,Midterm
+S049,Rahul,Male,84.93,5.97,65.22,Science,Unit Test
+S049,Rahul,Male,84.93,5.97,65.22,Science,Midterm
+S049,Rahul,Male,84.93,5.97,65.22,English,Unit Test
+S049,Rahul,Male,84.93,5.97,65.22,English,Midterm
+S049,Rahul,Male,84.93,5.97,65.22,History,Unit Test
+S049,Rahul,Male,84.93,5.97,65.22,History,Midterm
+S050,Neha,Female,79.9,2.66,71.35,Mathematics,Unit Test
+S050,Neha,Female,79.9,2.66,71.35,Mathematics,Midterm
+S050,Neha,Female,79.9,2.66,71.35,Science,Unit Test
+S050,Neha,Female,79.9,2.66,71.35,Science,Midterm
+S050,Neha,Female,79.9,2.66,71.35,English,Unit Test
+S050,Neha,Female,79.9,2.66,71.35,English,Midterm
+S050,Neha,Female,79.9,2.66,71.35,History,Unit Test
+S050,Neha,Female,79.9,2.66,71.35,History,Midterm
